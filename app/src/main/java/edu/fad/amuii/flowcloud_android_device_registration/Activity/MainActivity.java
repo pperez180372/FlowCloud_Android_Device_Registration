@@ -50,6 +50,8 @@ public class MainActivity extends ActionBarActivity {
          ct=getApplicationContext();
 
         // prueba cambios desde el PC
+        // prueba 2 desde el PC
+
         // Lanzar el thread que registrará el dispositivo
         new Thread(new Runnable() {
             public void run() {
