@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="flowws">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/flowws.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

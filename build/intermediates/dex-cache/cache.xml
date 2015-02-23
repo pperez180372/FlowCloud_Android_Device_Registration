@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/amuii/ANDROID_PROJECTS/FlowCloud_Android_Device_Registration/app/libs/armeabi.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="32cf584c0f857366511843584498671f6e29cb25">
+        <dex dex="/home/amuii/ANDROID_PROJECTS/FlowCloud_Android_Device_Registration/app/build/intermediates/pre-dexed/debug/armeabi-1dff3bbdcd3e1efd92623a206b46a50b7c3bb174.jar" />
+    </item>
+    <item
+        jar="/home/amuii/ANDROID_PROJECTS/FlowCloud_Android_Device_Registration/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/amuii/ANDROID_PROJECTS/FlowCloud_Android_Device_Registration/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-90b3f73eb6780215aeca4534e977b3715eacf10f.jar" />
+    </item>
+    <item
+        jar="/home/amuii/ANDROID_PROJECTS/FlowCloud_Android_Device_Registration/app/libs/flowsip.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a982819ba290e7ff59d58358f6132e0a10d5dfef">
+        <dex dex="/home/amuii/ANDROID_PROJECTS/FlowCloud_Android_Device_Registration/app/build/intermediates/pre-dexed/debug/flowsip-15af36fe2bbe5eccf9cc2cb2073123eafb6103ba.jar" />
+    </item>
+    <item
+        jar="/home/amuii/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/amuii/ANDROID_PROJECTS/FlowCloud_Android_Device_Registration/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-6f96466ba2ec4c5f15232c5e6901ccdf480b68d8.jar" />
+    </item>
+    <item
+        jar="/home/amuii/ANDROID_PROJECTS/FlowCloud_Android_Device_Registration/app/libs/mips.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0d08b1b6748dfe03469923147c47b17d495055f9">
+        <dex dex="/home/amuii/ANDROID_PROJECTS/FlowCloud_Android_Device_Registration/app/build/intermediates/pre-dexed/debug/mips-42e81e0755508b7eefc8c6720c58df4f1ccb6740.jar" />
+    </item>
+    <item
+        jar="/home/amuii/ANDROID_PROJECTS/FlowCloud_Android_Device_Registration/app/libs/flow.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e1ae4c24e718079d99ba0afcfebe7139dadc55f7">
+        <dex dex="/home/amuii/ANDROID_PROJECTS/FlowCloud_Android_Device_Registration/app/build/intermediates/pre-dexed/debug/flow-ec8f3123864f5181e96137de7dbe6acc76f5101d.jar" />
+    </item>
+    <item
+        jar="/home/amuii/ANDROID_PROJECTS/FlowCloud_Android_Device_Registration/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/amuii/ANDROID_PROJECTS/FlowCloud_Android_Device_Registration/app/build/intermediates/pre-dexed/debug/classes-e9e5088c638de0ebe1720693a1707ccc4bad5084.jar" />
+    </item>
+    <item
+        jar="/home/amuii/ANDROID_PROJECTS/FlowCloud_Android_Device_Registration/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/amuii/ANDROID_PROJECTS/FlowCloud_Android_Device_Registration/app/build/intermediates/pre-dexed/debug/classes-ebd08090301dd44f3d716051ceb590e52fcfb863.jar" />
+    </item>
+    <item
+        jar="/home/amuii/ANDROID_PROJECTS/FlowCloud_Android_Device_Registration/app/libs/x86.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d9bccbdbb2be45a065676b34f43450a3deea8ffa">
+        <dex dex="/home/amuii/ANDROID_PROJECTS/FlowCloud_Android_Device_Registration/app/build/intermediates/pre-dexed/debug/x86-66c5c882fec2560b75c359bfc86c34cc9a55720b.jar" />
+    </item>
+    <item
+        jar="/home/amuii/ANDROID_PROJECTS/FlowCloud_Android_Device_Registration/app/libs/flowws.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e11e07e2fea1279ae1829b2446e5637e494b250f">
+        <dex dex="/home/amuii/ANDROID_PROJECTS/FlowCloud_Android_Device_Registration/app/build/intermediates/pre-dexed/debug/flowws-1be0e7cf5ba31fc18c7e7c94af849bbc10840fcb.jar" />
+    </item>
+
+</items>

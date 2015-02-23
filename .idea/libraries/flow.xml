@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="flow">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/flow.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
