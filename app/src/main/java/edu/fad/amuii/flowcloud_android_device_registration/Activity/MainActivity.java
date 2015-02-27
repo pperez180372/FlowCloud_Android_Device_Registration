@@ -66,13 +66,12 @@ public class MainActivity extends ActionBarActivity {
                 String secret 					= Constants.FLOW_SERVER_SECRET;
 
                 String hardwareType 			= "Android";
-                String macAddress 				= "446D6CDAE96C";
+                String macAddress 				= "446D6CDAE96C"; // debe ser única
                 String serialNumber 			= "40";
                 String deviceId 				="";
                 String softwareVersion 			= "40";
-                String deviceName 				= "XXPascualetAndroid";
-                String DeviceRegistrationKey 	= "NXAYIMLCGH";
-
+                String deviceName 				= "XXPascualetAndroid"; // el nombre no debería repetirse.
+                String DeviceRegistrationKey 	= "NXAYIMLCGH"; // se obtiene desde el sitio web
 
                 boolean result = false;
 
@@ -147,29 +146,6 @@ public class MainActivity extends ActionBarActivity {
     }
 
 
- boolean getDeviceAoR() {
-
-        boolean result = true;
-        try {
-            Device device = Core.getDefaultClient().getLoggedInDevice();
-            if (device != null && device.hasFlowMessagingAddress()) {
-                FlowMessagingAddress addr = device.getFlowMessagingAddress();
-                if (addr != null) {
-                    String aor = addr.getAddress();
-                    System.out.println("Device AoR: "+ aor);
-                } else {
-                    result = false;
-                }
-            } else {
-                System.out.println("Device has no AoR");
-                result = false;
-            }
-        } catch (Exception e) {
-            System.err.println(e.getMessage());
-            result = false;
-        }
-        return result;
-    }
 
     /*
     public String getInitXml(String oRoot, String oKey, String oSecret) {
